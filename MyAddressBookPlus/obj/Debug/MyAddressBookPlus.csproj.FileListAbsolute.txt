@@ -171,3 +171,17 @@ C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\bin\System.Web.Helpers.xml
 C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\bin\System.Web.Mvc.xml
 C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\obj\Debug\MyAddressBookPlus.csproj.CopyComplete
+C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\bin\Microsoft.Azure.KeyVault.dll
+C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\bin\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\bin\System.Net.Http.dll
+C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\bin\System.Security.Cryptography.Algorithms.dll
+C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\bin\System.Security.Cryptography.Encoding.dll
+C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\bin\System.Security.Cryptography.Primitives.dll
+C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Personal\Code\AddressBookPlus\MyAddressBookPlus\bin\Microsoft.Rest.ClientRuntime.Azure.xml
