@@ -18,6 +18,7 @@ namespace MyAddressBook_.Services
 
             var authContext = new AuthenticationContext(authority);
 
+
             ClientCredential clientCred = new ClientCredential(WebConfigurationManager.AppSettings["ClientId"],
                 WebConfigurationManager.AppSettings["ClientSecret"]);
 
